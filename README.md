@@ -15,6 +15,7 @@ An end-to-end data analytics project exploring the Brazilian E-Commerce ecosyste
 
 ---
 <img width="1176" height="664" alt="image" src="https://github.com/user-attachments/assets/c977cbc3-c476-4997-93c5-c18de374d7f2" />
+
 ---
 
 ## 📖 Data Dictionary  
